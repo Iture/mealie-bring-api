@@ -1,0 +1,700 @@
+{
+    "action": {
+      "action_type": "post",
+      "title": "nowe",
+      "url": "http://172.0.0.1:32000/",
+      "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+      "household_id": "218f0909-ffff-ffff-ffff-ac3ae2344db5",
+      "id": "3b46e795-4859-4a86-b1c1-3e9a2159002a"
+    },
+    "content": {
+      "id": "13b0e634-d708-4c4d-b07d-ad173099722c",
+      "user_id": "48c5200f-aaa-bbbb-ffff-d571f03906f7",
+      "household_id": "218f0909-ffff-ffff-ffff-ac3ae2344db5",
+      "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+      "name": "Chow mein z kurczakiem i warzywami",
+      "slug": "chow-mein-z-kurczakiem-i-warzywami",
+      "image": "236",
+      "recipe_servings": 2.0,
+      "recipe_yield_quantity": 0.0,
+      "recipe_yield": "",
+      "total_time": null,
+      "prep_time": null,
+      "cook_time": null,
+      "perform_time": null,
+      "description": "Chow mein czyli pszenne kluseczki (noodles) podsma\u017cane z cienkim paseczkami ci\u0105gle j\u0119drnych i lekko chrupi\u0105cych warzyw i kawa\u0142kami soczystego kurczaka. Wszystko doprawione bia\u0142ym pieprzem, szczypt\u0105 cukru, olejem sezamowym i sosem sojowym. Szybka i pyszna potrawa typu stir-fry do zrobienia na jednej patelni (lub woku) w nieca\u0142y kwadrans. Idealne danie na obiad po pracy kiedy nie mamy si\u0142y na d\u0142u\u017csze gotowanie. ",
+      "recipe_category": [
+        {
+          "id": "59721d30-d863-4f8e-b07b-4eadf0845263",
+          "name": "Azjatyckie",
+          "slug": "azjatyckie"
+        }
+      ],
+      "tags": [
+        {
+          "id": "99757a80-2389-49ab-bae6-eabdc0ad38ab",
+          "name": "clean",
+          "slug": "clean"
+        }
+      ],
+      "tools": [],
+      "rating": null,
+      "org_url": "https://www.kwestiasmaku.com/kuchnia_orientu/chow_mein/przepis.html",
+      "date_added": "2025-03-23",
+      "date_updated": "2025-03-23T16:55:51.327937+00:00",
+      "created_at": "2025-03-23T16:51:08.077527+00:00",
+      "updated_at": "2025-03-23T16:55:51.344405+00:00",
+      "last_made": null,
+      "recipe_ingredient": [
+        {
+          "quantity": 2.0,
+          "unit": {
+            "id": "03820fe8-0a6f-4542-9754-6f289296e43b",
+            "name": "\u0142y\u017cka",
+            "plural_name": "\u0142y\u017cki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:16.497243+00:00",
+            "updated_at": "2025-03-20T19:13:16.497254+00:00"
+          },
+          "food": {
+            "id": "63d88a58-29d3-4474-b436-ef8642caab82",
+            "name": "olej",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "426f75b7-a54f-4084-bd25-afaac6998a07",
+            "aliases": [],
+            "households_with_ingredient_food": [
+              "family"
+            ],
+            "label": {
+              "name": "Przyprawy",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "426f75b7-a54f-4084-bd25-afaac6998a07"
+            },
+            "created_at": "2025-03-22T15:02:34.284213+00:00",
+            "updated_at": "2025-03-22T18:22:38.588270+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "2 \u0142y\u017cki olej",
+          "title": null,
+          "original_text": "2 \u00014y\u00017cki oleju ro\u00015blinnego",
+          "reference_id": "42632f2f-e0a3-41eb-90bc-09e879e7d2b6"
+        },
+        {
+          "quantity": 2.0,
+          "unit": {
+            "id": "9e345780-56df-4a7d-9a06-65c35b24f7e9",
+            "name": "z\u0105bek",
+            "plural_name": "z\u0105bki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:18.640053+00:00",
+            "updated_at": "2025-03-20T19:13:18.640066+00:00"
+          },
+          "food": {
+            "id": "0bb835ed-ce3f-4a72-a11f-f322752b3001",
+            "name": "czosnek",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "07d36386-1324-4544-a284-7fce79b73feb",
+            "aliases": [],
+            "households_with_ingredient_food": [
+              "family"
+            ],
+            "label": {
+              "name": "Warzywa",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "07d36386-1324-4544-a284-7fce79b73feb"
+            },
+            "created_at": "2025-03-22T15:02:44.149406+00:00",
+            "updated_at": "2025-03-22T18:26:30.001783+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "2 z\u0105bki czosnek",
+          "title": null,
+          "original_text": "2 z\u0105bki czosnku",
+          "reference_id": "ebbad9c1-eeb6-4d6f-ada4-a5aebedc9d13"
+        },
+        {
+          "quantity": 1.0,
+          "unit": {
+            "id": "e31f8455-59bb-45aa-848a-0eca7ac46419",
+            "name": "sztuka",
+            "plural_name": "sztuki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": "",
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-22T15:03:02.634219+00:00",
+            "updated_at": "2025-03-22T15:17:27.800895+00:00"
+          },
+          "food": {
+            "id": "42ebaa56-4273-421f-9ff6-4368dca88d95",
+            "name": "filet z kurczaka",
+            "plural_name": "filety z kurczaka",
+            "description": "",
+            "extras": {},
+            "label_id": "33cf5c3c-b610-4113-a44d-0d50e64cceb5",
+            "aliases": [
+              {
+                "name": "pier\u015b z kurczaka"
+              }
+            ],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Mi\u0119so",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "33cf5c3c-b610-4113-a44d-0d50e64cceb5"
+            },
+            "created_at": "2025-03-22T15:03:32.901365+00:00",
+            "updated_at": "2025-03-22T20:10:13.708544+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "1 sztuka filet z kurczaka",
+          "title": null,
+          "original_text": "1 filet kurczaka",
+          "reference_id": "bf4d68b6-d45d-432a-a495-30e2373f7c1a"
+        },
+        {
+          "quantity": 0.5,
+          "unit": {
+            "id": "e31f8455-59bb-45aa-848a-0eca7ac46419",
+            "name": "sztuka",
+            "plural_name": "sztuki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": "",
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-22T15:03:02.634219+00:00",
+            "updated_at": "2025-03-22T15:17:27.800895+00:00"
+          },
+          "food": {
+            "id": "2348faee-953e-4c67-a556-911814cf3eb0",
+            "name": "marchewka",
+            "plural_name": "marchewki",
+            "description": "",
+            "extras": {},
+            "label_id": "07d36386-1324-4544-a284-7fce79b73feb",
+            "aliases": [],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Warzywa",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "07d36386-1324-4544-a284-7fce79b73feb"
+            },
+            "created_at": "2025-03-23T00:16:18.109336+00:00",
+            "updated_at": "2025-03-23T00:16:18.109348+00:00"
+          },
+          "note": "niezbyt du\u017cej",
+          "is_food": true,
+          "disable_amount": false,
+          "display": "\u00b9/\u2082 sztuka marchewka niezbyt du\u017cej",
+          "title": null,
+          "original_text": "1/2 marchewki (niezbyt du\u017cej)",
+          "reference_id": "286d07e9-1747-4deb-be72-8c8821ce287d"
+        },
+        {
+          "quantity": 0.5,
+          "unit": {
+            "id": "e31f8455-59bb-45aa-848a-0eca7ac46419",
+            "name": "sztuka",
+            "plural_name": "sztuki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": "",
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-22T15:03:02.634219+00:00",
+            "updated_at": "2025-03-22T15:17:27.800895+00:00"
+          },
+          "food": {
+            "id": "76c34036-daa2-4665-b267-f18ac18256eb",
+            "name": "papryka",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "07d36386-1324-4544-a284-7fce79b73feb",
+            "aliases": [],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Warzywa",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "07d36386-1324-4544-a284-7fce79b73feb"
+            },
+            "created_at": "2025-03-22T15:11:09.551806+00:00",
+            "updated_at": "2025-03-22T18:26:26.929710+00:00"
+          },
+          "note": "czerwona",
+          "is_food": true,
+          "disable_amount": false,
+          "display": "\u00b9/\u2082 sztuka papryka czerwona",
+          "title": null,
+          "original_text": "1/2 czerwonej papryki",
+          "reference_id": "68ac8223-b0d2-4000-b04b-49403e5564c0"
+        },
+        {
+          "quantity": 10.0,
+          "unit": {
+            "id": "e31f8455-59bb-45aa-848a-0eca7ac46419",
+            "name": "sztuka",
+            "plural_name": "sztuki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": "",
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-22T15:03:02.634219+00:00",
+            "updated_at": "2025-03-22T15:17:27.800895+00:00"
+          },
+          "food": {
+            "id": "e278bec5-e7ce-44c1-8886-9d2d030a944c",
+            "name": "groszek cukrowy",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "07d36386-1324-4544-a284-7fce79b73feb",
+            "aliases": [],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Warzywa",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "07d36386-1324-4544-a284-7fce79b73feb"
+            },
+            "created_at": "2025-03-22T23:28:50.605028+00:00",
+            "updated_at": "2025-03-22T23:43:28.928122+00:00"
+          },
+          "note": "ok. \u015bwie\u017cego lub mro\u017conego",
+          "is_food": true,
+          "disable_amount": false,
+          "display": "10 sztuki groszek cukrowy ok. \u015bwie\u017cego lub mro\u017conego",
+          "title": null,
+          "original_text": "ok. 10 str\u0105k\u00f3w groszku cukrowego (\u015bwie\u017cego lub mro\u017conego)",
+          "reference_id": "5142a528-5255-4333-a139-d7a3356628d0"
+        },
+        {
+          "quantity": 1.0,
+          "unit": {
+            "id": "30e98c88-102a-404c-9ca2-4e189125c983",
+            "name": "p\u0119czek",
+            "plural_name": "p\u0119czki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:18.934547+00:00",
+            "updated_at": "2025-03-20T19:13:18.934562+00:00"
+          },
+          "food": {
+            "id": "0eb5a2dc-cefc-48f6-8ed6-6142008a3d8c",
+            "name": "szczypiorek",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "07d36386-1324-4544-a284-7fce79b73feb",
+            "aliases": [],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Warzywa",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "07d36386-1324-4544-a284-7fce79b73feb"
+            },
+            "created_at": "2025-03-22T17:37:18.254465+00:00",
+            "updated_at": "2025-03-22T18:26:25.873601+00:00"
+          },
+          "note": "bia\u0142a i jasnozielona cz\u0119\u015b\u0107",
+          "is_food": true,
+          "disable_amount": false,
+          "display": "1 p\u0119czek szczypiorek bia\u0142a i jasnozielona cz\u0119\u015b\u0107",
+          "title": null,
+          "original_text": "2 dymki lub 1 p\u0119czek szczypiorku (bia\u0142a i jasnozielona cz\u0119\u015b\u0107)",
+          "reference_id": "d333c1b2-544f-4c1f-bc5e-e7dc3ab6eae8"
+        },
+        {
+          "quantity": 100.0,
+          "unit": {
+            "id": "9103ed99-e626-49b8-ae63-03dca3316aa3",
+            "name": "gram",
+            "plural_name": "gramy",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "g",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:17.556089+00:00",
+            "updated_at": "2025-03-20T19:13:17.556101+00:00"
+          },
+          "food": {
+            "id": "3cc4e1aa-d347-4bfb-a1da-77492f193af1",
+            "name": "makaron chow mein",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "6875a4b5-1527-41ba-a90d-54d636816194",
+            "aliases": [],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Makaron",
+              "color": "",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "6875a4b5-1527-41ba-a90d-54d636816194"
+            },
+            "created_at": "2025-03-23T16:52:45.582445+00:00",
+            "updated_at": "2025-03-23T17:05:49.535607+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "100 gramy makaron chow mein",
+          "title": null,
+          "original_text": "100 g makaronu Mie*",
+          "reference_id": "e7926654-1ceb-4693-b74b-a900f6fc6393"
+        },
+        {
+          "quantity": 0.25,
+          "unit": {
+            "id": "37f80593-8598-4faf-aa63-38ade92a9377",
+            "name": "\u0142y\u017ceczka",
+            "plural_name": "\u0142y\u017ceczki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:16.340984+00:00",
+            "updated_at": "2025-03-20T19:13:16.340995+00:00"
+          },
+          "food": {
+            "id": "f767cc8e-d4bb-45c3-adf3-2201e42ffe56",
+            "name": "pieprz",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "426f75b7-a54f-4084-bd25-afaac6998a07",
+            "aliases": [],
+            "households_with_ingredient_food": [
+              "family"
+            ],
+            "label": {
+              "name": "Przyprawy",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "426f75b7-a54f-4084-bd25-afaac6998a07"
+            },
+            "created_at": "2025-03-22T15:12:26.719042+00:00",
+            "updated_at": "2025-03-22T18:22:37.161285+00:00"
+          },
+          "note": "bia\u0142y",
+          "is_food": true,
+          "disable_amount": false,
+          "display": "\u00b9/\u2084 \u0142y\u017ceczka pieprz bia\u0142y",
+          "title": null,
+          "original_text": "1/4 \u0142y\u017ceczki zmielonego bia\u0142ego pieprzu",
+          "reference_id": "248037f6-69a7-46c2-bc74-7993c6b6a516"
+        },
+        {
+          "quantity": 0.5,
+          "unit": {
+            "id": "37f80593-8598-4faf-aa63-38ade92a9377",
+            "name": "\u0142y\u017ceczka",
+            "plural_name": "\u0142y\u017ceczki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:16.340984+00:00",
+            "updated_at": "2025-03-20T19:13:16.340995+00:00"
+          },
+          "food": {
+            "id": "4d6c9390-10db-4695-b15f-6187d21824e2",
+            "name": "cukier",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "426f75b7-a54f-4084-bd25-afaac6998a07",
+            "aliases": [],
+            "households_with_ingredient_food": [
+              "family"
+            ],
+            "label": {
+              "name": "Przyprawy",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "426f75b7-a54f-4084-bd25-afaac6998a07"
+            },
+            "created_at": "2025-03-22T17:43:25.237430+00:00",
+            "updated_at": "2025-03-22T18:26:43.164566+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "\u00b9/\u2082 \u0142y\u017ceczka cukier",
+          "title": null,
+          "original_text": "1/2 \u0142y\u017ceczki cukru",
+          "reference_id": "f8ebdb6c-728f-4e0f-a3bc-1720a4f1e37f"
+        },
+        {
+          "quantity": 1.0,
+          "unit": {
+            "id": "03820fe8-0a6f-4542-9754-6f289296e43b",
+            "name": "\u0142y\u017cka",
+            "plural_name": "\u0142y\u017cki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:16.497243+00:00",
+            "updated_at": "2025-03-20T19:13:16.497254+00:00"
+          },
+          "food": {
+            "id": "a6d00d4e-a508-4c02-9eb1-5580a8289554",
+            "name": "olej sezamowy",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "5c2396a0-0b8b-45f3-a9be-9f93b9adddb7",
+            "aliases": [],
+            "households_with_ingredient_food": [],
+            "label": {
+              "name": "Inne",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "5c2396a0-0b8b-45f3-a9be-9f93b9adddb7"
+            },
+            "created_at": "2025-03-22T17:38:15.184128+00:00",
+            "updated_at": "2025-03-23T17:08:07.148130+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "1 \u0142y\u017cka olej sezamowy",
+          "title": null,
+          "original_text": "1 \u0142y\u017cka oleju sezamowego",
+          "reference_id": "f4a1751f-6c84-45a4-b035-5ab33e4fbec3"
+        },
+        {
+          "quantity": 3.0,
+          "unit": {
+            "id": "03820fe8-0a6f-4542-9754-6f289296e43b",
+            "name": "\u0142y\u017cka",
+            "plural_name": "\u0142y\u017cki",
+            "description": "",
+            "extras": {},
+            "fraction": true,
+            "abbreviation": "",
+            "plural_abbreviation": null,
+            "use_abbreviation": false,
+            "aliases": [],
+            "created_at": "2025-03-20T19:13:16.497243+00:00",
+            "updated_at": "2025-03-20T19:13:16.497254+00:00"
+          },
+          "food": {
+            "id": "3166e93f-4a9e-40d6-b3ee-8a9e4c126334",
+            "name": "sos sojowy",
+            "plural_name": null,
+            "description": "",
+            "extras": {},
+            "label_id": "426f75b7-a54f-4084-bd25-afaac6998a07",
+            "aliases": [],
+            "households_with_ingredient_food": [
+              "family"
+            ],
+            "label": {
+              "name": "Przyprawy",
+              "color": "#959595",
+              "group_id": "6f98618a-5bbe-4832-baa2-12a300a6373b",
+              "id": "426f75b7-a54f-4084-bd25-afaac6998a07"
+            },
+            "created_at": "2025-03-22T15:09:24.010993+00:00",
+            "updated_at": "2025-03-22T18:22:37.660288+00:00"
+          },
+          "note": null,
+          "is_food": true,
+          "disable_amount": false,
+          "display": "3 \u0142y\u017cki sos sojowy",
+          "title": null,
+          "original_text": "3 \u0142y\u017cki sosu sojowego",
+          "reference_id": "78754027-c38b-4b0e-b3ff-6536b8fa75af"
+        }
+      ],
+      "recipe_instructions": [
+        {
+          "id": "4fd5ee5b-de61-4875-9b95-039998bbf6e2",
+          "title": "",
+          "summary": "",
+          "text": "Makaron ugotowa\u0107 we wrz\u0105tku (ok. 2-3 minuty) i przep\u0142uka\u0107 zimn\u0105 wod\u0105. Filet kurczaka pokroi\u0107 na ok. 1,5 cm kawa\u0142ki.",
+          "ingredient_references": [
+            {
+              "reference_id": "e7926654-1ceb-4693-b74b-a900f6fc6393"
+            },
+            {
+              "reference_id": "bf4d68b6-d45d-432a-a495-30e2373f7c1a"
+            }
+          ]
+        },
+        {
+          "id": "cc2c52e3-b9fa-4a88-80d4-f7ef2e43cb29",
+          "title": "",
+          "summary": "",
+          "text": "Przygotowa\u0107 warzywa: czosnek obra\u0107 i posieka\u0107. Obran\u0105 marchewk\u0119, oczyszczon\u0105 papryk\u0119 oraz groszek cukrowy pokroi\u0107 ostrym no\u017cem wzd\u0142u\u017c na cienkie paseczki (zapa\u0142ki). Dymk\u0119 (szczypiorek) pokroi\u0107 uko\u015bnie na plasterki.",
+          "ingredient_references": [
+            {
+              "reference_id": "ebbad9c1-eeb6-4d6f-ada4-a5aebedc9d13"
+            },
+            {
+              "reference_id": "5142a528-5255-4333-a139-d7a3356628d0"
+            },
+            {
+              "reference_id": "d333c1b2-544f-4c1f-bc5e-e7dc3ab6eae8"
+            },
+            {
+              "reference_id": "286d07e9-1747-4deb-be72-8c8821ce287d"
+            },
+            {
+              "reference_id": "68ac8223-b0d2-4000-b04b-49403e5564c0"
+            }
+          ]
+        },
+        {
+          "id": "b24c73f2-72c6-4da4-a85e-e5cc00d093b9",
+          "title": "",
+          "summary": "",
+          "text": "W woku lub na du\u017cej patelni rozgrza\u0107 olej ro\u015blinny. W\u0142o\u017cy\u0107 czosnek i sma\u017cy\u0107 ok. 30 sekund, doda\u0107 pier\u015b kurczaka i obsma\u017cy\u0107 (przez ok. 1,5-2 minuty).",
+          "ingredient_references": [
+            {
+              "reference_id": "bf4d68b6-d45d-432a-a495-30e2373f7c1a"
+            },
+            {
+              "reference_id": "ebbad9c1-eeb6-4d6f-ada4-a5aebedc9d13"
+            },
+            {
+              "reference_id": "42632f2f-e0a3-41eb-90bc-09e879e7d2b6"
+            }
+          ]
+        },
+        {
+          "id": "f09bf337-5dd4-40a3-8b3b-bc64abc8e0c9",
+          "title": "",
+          "summary": "",
+          "text": "Doda\u0107 marchewk\u0119, nast\u0119pnie po chwili reszt\u0119 warzyw. Wymiesza\u0107 i sma\u017cy\u0107 przez ok. 2 minuty.",
+          "ingredient_references": [
+            {
+              "reference_id": "286d07e9-1747-4deb-be72-8c8821ce287d"
+            },
+            {
+              "reference_id": "68ac8223-b0d2-4000-b04b-49403e5564c0"
+            },
+            {
+              "reference_id": "5142a528-5255-4333-a139-d7a3356628d0"
+            },
+            {
+              "reference_id": "d333c1b2-544f-4c1f-bc5e-e7dc3ab6eae8"
+            }
+          ]
+        },
+        {
+          "id": "a987d7a6-6cc7-4846-ba8a-6fab94ee6610",
+          "title": "",
+          "summary": "",
+          "text": "Doda\u0107 ugotowany makaron. Wymiesza\u0107 i doprawi\u0107 bia\u0142ym pieprzem, cukrem, olejem sezamowym i sosem sojowym. Wymiesza\u0107 i podsma\u017cy\u0107 jeszcze wszystko przez ok. 1-2 minuty.",
+          "ingredient_references": [
+            {
+              "reference_id": "248037f6-69a7-46c2-bc74-7993c6b6a516"
+            },
+            {
+              "reference_id": "f8ebdb6c-728f-4e0f-a3bc-1720a4f1e37f"
+            },
+            {
+              "reference_id": "f4a1751f-6c84-45a4-b035-5ab33e4fbec3"
+            },
+            {
+              "reference_id": "78754027-c38b-4b0e-b3ff-6536b8fa75af"
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "calories": null,
+        "carbohydrate_content": null,
+        "cholesterol_content": null,
+        "fat_content": null,
+        "fiber_content": null,
+        "protein_content": null,
+        "saturated_fat_content": null,
+        "sodium_content": null,
+        "sugar_content": null,
+        "trans_fat_content": null,
+        "unsaturated_fat_content": null
+      },
+      "settings": {
+        "public": false,
+        "show_nutrition": false,
+        "show_assets": false,
+        "landscape_view": true,
+        "disable_comments": false,
+        "disable_amount": false,
+        "locked": false
+      },
+      "assets": [],
+      "notes": [
+        {
+          "title": "",
+          "text": "Makaron potrzebny do przygotowania tego dania to tzw. Mie, dostaniecie go bez problemu w ka\u017cdym w miar\u0119 dobrze zaopatrzonym sklepie. Rozejrzyjcie si\u0119 te\u017c za pysznym, chrupi\u0105cym zielonym groszkiem cukrowym; je\u015bli nie znajdziecie \u015bwie\u017cego mo\u017cecie wykorzysta\u0107 mro\u017cony. Je\u015bli nie macie oleju sezamowego tak\u017ce warto go zakupi\u0107 - przyda si\u0119 z pewno\u015bci\u0105 r\u00f3wnie\u017c do wielu innych potraw z kuchni chi\u0144skiej."
+        },
+        {
+          "title": "",
+          "text": ""
+        }
+      ],
+      "extras": {},
+      "comments": []
+    }
+  }
