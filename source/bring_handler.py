@@ -6,7 +6,6 @@ from bring_api import Bring, BringItemOperation, BringNotificationType
 from environment_variable_getter import EnvironmentVariableGetter
 from ingredient import Ingredient
 from logger_mixin import LoggerMixin
-from pprint import pprint
 from thefuzz import process
 
 class BringHandler(LoggerMixin):
@@ -64,7 +63,8 @@ class BringHandler(LoggerMixin):
             best_match, score = process.extractOne(ingredient_name, product_name_values)
             
             # Replace the ingredient name with the best match if score is above threshold, add base name to specification
-            if score > 85:  # Threshold can be adjusted based on needs
+            #TODO Add threshold to configuration
+            if score >= 85:  # Threshold can be adjusted based on needs
                 
                 ingredient.specification = ingredient_name + " " + ingredient.specification if score < 100 else ingredient.specification
                 ingredient.name = best_match
